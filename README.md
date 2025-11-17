@@ -14,8 +14,7 @@ Data mart ini dirancang untuk Fakultas Sains guna memonitor kinerja akademik, pe
 ## Business Domain
 Fokus pada kegiatan tridharma perguruan tinggi:
 1. Pendidikan & Pengajaran (kinerja akademik mahasiswa)  
-2. Penelitian (output riset & hibah)  
-3. Publikasi Dosen
+2. Publikasi Dosen
 
 ## Architecture
 - Approach: Kimball
