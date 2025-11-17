@@ -9,7 +9,7 @@ Tugas Besar Pergudangan Data - Kelompok 1
 - Vania Claresta — 123450029 
 
 ## Project Description
-Data mart ini dirancang untuk Fakultas Sains guna memonitor kinerja akademik, penelitian, dan publikasi dosen.
+Data mart ini dirancang untuk Fakultas Sains guna memonitor kinerja akademik dan publikasi dosen.
 
 ## Business Domain
 Fokus pada kegiatan tridharma perguruan tinggi:
@@ -47,7 +47,7 @@ Fokus pada kegiatan tridharma perguruan tinggi:
 - [Design Documents](docs/02-design/)
 
 ## Timeline
-- Misi 1: [17-11-2025]
+- Misi 1: 17-11-2025
 - Misi 2: [Tanggal]
 - Misi 3: [Tanggal]
 
