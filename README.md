@@ -1,5 +1,4 @@
 # Kelompok-1_Fakultas-Sains
-# Data Mart - Fakultas Sains
 Tugas Besar Pergudangan Data - Kelompok 1
 
 ## Team Members
