@@ -32,7 +32,7 @@ Fokus pada kegiatan tridharma perguruan tinggi:
   - `Dim_Prodi` — informasi program studi di Fakultas Sains.  
   - `Dim_Waktu` — kalender waktu (tahun, semester, bulan, tanggal).  
 
-- **KPIs (contoh)**:  
+- **KPIs**:  
   - **IPK rata-rata per program studi**  
   - **Jumlah publikasi dosen per tahun**  
   - **Persentase mahasiswa lulus tepat waktu**  
