@@ -1,4 +1,4 @@
-## 2.2 Data Profiling
+## 2.2 Data Sources Overview
 
 Berikut adalah rincian profil data dari setiap sumber yang digunakan dalam perancangan Data Warehouse ini:
 
