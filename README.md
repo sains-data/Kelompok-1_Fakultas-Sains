@@ -5,7 +5,7 @@ Tugas Besar Pergudangan Data - Kelompok 1
 - Tanty Widiyastuti — 123450094  
 - Feby Wulandari — 123450042  
 - Siti Nur Aarifah — 122450006  
-- Vania Claresta — 123450029 
+- Vania Claresta — 123450029 (Ketua Tim) 
 
 ## Project Description
 Data mart ini dirancang untuk Fakultas Sains guna memonitor kinerja akademik dan publikasi dosen.
