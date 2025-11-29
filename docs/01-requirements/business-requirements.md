@@ -26,7 +26,7 @@ Proses bisnis utama yang menjadi fokus data warehouse:
 | Proses Bisnis Utama | KPI Utama | Metrik Data |
 | :--- | :--- | :--- |
 | **Pengelolaan Akademik & Perkuliahan** | Rata-rata IPK per semester/fakultas, tingkat keberhasilan mata kuliah | Jumlah mahasiswa aktif per prodi, rata-rata IPK per angkatan, Persentase mata kuliah gagal, Jumlah SKS diambil. |
-| **Penelitian & Publikasi Dosen** | Jumlah penelitian aktif & publikasi per tahun, kualitas publikasi, rasio dosen:mahasiswa | Jumlah Penelitian lolos pendanaan, jumlah publikasi terindeks, Jumlah sitasi (per Dosen). |
+| **Penelitian & Publikasi Dosen** | Jumlah penelitian aktif & publikasi per tahun, kualitas publikasi, | jumlah publikasi terindeks, Jumlah sitasi (per Dosen). |
 
 ### 1.4 Kebutuhan Analitik (Analytic Needs)
 
@@ -35,7 +35,6 @@ Proses bisnis utama yang menjadi fokus data warehouse:
 * Bagaimana tren rata-rata IPK per angkatan di setiap program studi selama 5 tahun terakhir?
 * Mata kuliah apa saja yang memiliki persentase kegagalan (nilai D/E) tertinggi di setiap prodi?
 * Bagaimana sebaran jumlah mahasiswa aktif per program studi dan per angkatan saat ini?
-* Bagaimana tren jumlah mahasiswa masuk, lulus, dan drop-out selama 7 tahun terakhir?
 
 **Dashboard yang Dibutuhkan:**
 1.  **Dashboard Eksekutif Akademik:** Ringkasan KPI utama (total mahasiswa, IPK, kelulusan).
@@ -45,8 +44,6 @@ Proses bisnis utama yang menjadi fokus data warehouse:
 #### B. Penelitian dan Publikasi Dosen
 **Pertanyaan Bisnis Utama:**
 * Siapa 10 dosen dengan jumlah sitasi dan publikasi terindeks tertinggi?
-* Berapa rasio penelitian lolos pendanaan terhadap proposal yang diajukan?
-* Berapa rasio dosen tetap terhadap jumlah mahasiswa di setiap prodi?
 
 **Dashboard yang Dibutuhkan:**
 1.  **Dashboard Kinerja Tri Dharma:** Monitor produktivitas dosen (publikasi, sitasi).
