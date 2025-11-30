@@ -121,3 +121,25 @@ SELECT 'Fakta (Warehouse)', COUNT(*) FROM dbo.Fakta_Akademik;
 SELECT 'Staging (Source)' AS Lokasi, COUNT(*) AS Jumlah FROM stg.Fakta_Publikasi
 UNION ALL
 SELECT 'Fakta (Warehouse)', COUNT(*) FROM dbo.Fakta_Publikasi;
+
+-- QUALITY METRICS SUMMARY REPORT
+-- Menampilkan ringkasan kesehatan data secara keseluruhan
+SELECT 
+    CAST(CheckDate AS DATE) AS [Tanggal Pengecekan],
+    
+    -- 1. Total Aturan yang Dicek
+    COUNT(*) AS [Total Metrics Checked],
+    
+    -- 2. Berapa yang Lulus (PASS)
+    SUM(CASE WHEN Status = 'PASS' THEN 1 ELSE 0 END) AS [Passed Checks],
+    
+    -- 3. Berapa yang Gagal (FAIL)
+    SUM(CASE WHEN Status = 'FAIL' THEN 1 ELSE 0 END) AS [Failed Checks],
+    
+    -- 4. Skor Kesehatan Data (%)
+    CAST(
+        SUM(CASE WHEN Status = 'PASS' THEN 1.0 ELSE 0.0 END) / COUNT(*) * 100 
+    AS DECIMAL(5,2)) AS [Data Health Score (%)]
+
+FROM dbo.DataQuality_Log
+GROUP BY CAST(CheckDate AS DATE);
