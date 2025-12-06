@@ -12,3 +12,14 @@ SELECT * FROM dbo.Dim_Prodi;
 SELECT * FROM dbo.Dim_Dosen;
 SELECT * FROM dbo.Dim_MataKuliah;
 SELECT * FROM dbo.Dim_Mahasiswa;
+
+-- Load Fakta Akademik
+EXEC dbo.usp_Load_Fakta_Akademik;
+
+-- Load Fakta Publikasi
+EXEC dbo.usp_Load_Fakta_Publikasi;
+
+-- Cek Hasil Akhir
+SELECT COUNT(*) AS Total_Fakta_Akademik FROM dbo.Fakta_Akademik;
+SELECT COUNT(*) AS Total_Fakta_Publikasi FROM dbo.Fakta_Publikasi;
+
