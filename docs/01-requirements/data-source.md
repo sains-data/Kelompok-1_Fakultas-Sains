@@ -10,4 +10,4 @@ Berikut adalah rincian profil data dari setiap sumber yang digunakan dalam peran
 | **Mata Kuliah** | CSV (Synthetic) | 300 rows | **Low** (Bertambah/berubah saat kurikulum baru) | **5 Tahun Sekali** (Mayor) / Semester (Minor) |
 | **Jurnal** | CSV (Synthetic) | 200 rows | **Moderate** (Bertambah seiring variasi publikasi) | **Monthly/Ad-hoc** (Saat ada jurnal tujuan baru) |
 | **Akademik** | CSV (Synthetic) | 10000 rows | **High** (Bertambah pesat tiap semester) | **Real-time** (Selama masa pengisian nilai) / Semester |
-| **Publikasi Dosen** | CSV (Synthetic) | 30000 rows | **Moderate** (Sesuai target kinerja tahunan) | **Annual** (Biasanya direkap akhir tahun/semester) |
+| **Publikasi Dosen** | CSV (Synthetic) | 10000 rows | **Moderate** (Sesuai target kinerja tahunan) | **Annual** (Biasanya direkap akhir tahun/semester) |
