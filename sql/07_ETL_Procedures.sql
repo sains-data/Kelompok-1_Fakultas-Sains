@@ -301,3 +301,55 @@ BEGIN
     PRINT '>> [SUCCESS] Load Fakta_Publikasi selesai.';
 END;
 GO
+CREATE OR ALTER PROCEDURE dbo.usp_Master_ETL
+AS
+BEGIN
+    SET NOCOUNT ON;
+    
+    PRINT '==================================================';
+    PRINT '   STARTING MASTER ETL PROCESS (DATA WAREHOUSE)   ';
+    PRINT '==================================================';
+
+    ---------------------------------------------------
+    -- STEP 1: LOAD DIMENSI (Wajib Duluan)
+    ---------------------------------------------------
+    PRINT '>>> 1. Memuat Tabel Dimensi...';
+    
+    -- Pastikan nama-nama SP ini sudah ada di database kamu
+    -- Beri tanda '--' di depan jika SP belum dibuat
+    
+    EXEC dbo.usp_Load_Dim_Prodi;      -- (Nyalakan jika ada)
+    EXEC dbo.usp_Load_Dim_MataKuliah; -- (Nyalakan jika ada)
+    EXEC dbo.usp_Load_Dim_Dosen;      -- (Nyalakan jika ada)
+    EXEC dbo.usp_Load_Dim_Mahasiswa;  -- (Nyalakan jika ada)
+    EXEC dbo.usp_Load_Dim_Jurnal;  -- (Nyalakan jika ada)
+    EXEC dbo.usp_Load_Dim_Waktu; 
+    
+  
+    
+    -- Dimensi Waktu biasanya statis (tidak perlu di-load tiap hari), 
+    -- tapi kalau kamu buat SP-nya, boleh dimasukkan:
+    -- EXEC dbo.usp_Load_Dim_Waktu; 
+
+    PRINT '>>> Dimensi Selesai.';
+
+    ---------------------------------------------------
+    -- STEP 2: LOAD FAKTA (Setelah Dimensi Aman)
+    ---------------------------------------------------
+    PRINT '>>> 2. Memuat Tabel Fakta...';
+
+    PRINT '   - Loading Fakta Akademik...';
+    EXEC dbo.usp_Load_Fakta_Akademik;
+    
+    PRINT '   - Loading Fakta Publikasi...';
+    EXEC dbo.usp_Load_Fakta_Publikasi;
+
+    -- Fakta Keuangan (Jika ada)
+    -- EXEC dbo.usp_Load_Fact_Transaksi;
+
+    PRINT '==================================================';
+    PRINT '   MASTER ETL COMPLETED SUCCESSFULLY (ALL DATA)   ';
+    PRINT '==================================================';
+END;
+GO
+EXEC dbo.usp_Master_ETL;
