@@ -1,0 +1,299 @@
+ID_MK,Kode_MK,Nama_MK,SKS,Prodi_Nama,ID_Prodi
+1213,MA1103,Matematika Dasar 1A,4,Sains Data,1
+1214,FI1102,Fisika Dasar 1A,4,Sains Data,1
+1215,KI1103,Kimia Dasar 1A,3,Sains Data,1
+1216,BI1103,Biologi Dasar 1,2,Sains Data,1
+1217,KU1106,Pengantar Komputer dan Software ,2,Sains Data,1
+1218,KU1101,Bahasa Indonesia ,2,Sains Data,1
+1219,KU1104,Olahraga,2,Sains Data,1
+1220,MA1203,Matematika Dasar 2A,4,Sains Data,1
+1221,FI1202,Fisika Dasar 2A,4,Sains Data,1
+1222,KI1204,Kimia Dasar 2A,3,Sains Data,1
+1223,KU1002,Bahasa Inggris,2,Sains Data,1
+1224,KU1203,Lingkungan Hidup Sumatera,2,Sains Data,1
+1225,KU1205,Pengantar Komputer dan Software 2,2,Sains Data,1
+1226,SD2101,Aljabar Linear Elementer,3,Sains Data,1
+1227,SD2102,Teori Peluang ,2,Sains Data,1
+1228,SD2103,Logika dan Matematika Diskrit ,3,Sains Data,1
+1229,SD2104,Struktur Data ,3,Sains Data,1
+1230,SD2105,Analisis Data Statistika ,3,Sains Data,1
+1231,SD2106,Algoritma Pemrograman ,3,Sains Data,1
+1232,KU0009,Pancasila,2,Sains Data,1
+1233,SD2201,Pemrograman Berorientasi Fungsi ,3,Sains Data,1
+1234,SD2202,Rancangan Percobaan,3,Sains Data,1
+1235,SD2203,Statistika Sains Data ,3,Sains Data,1
+1236,SD2204,Metode Numerik ,3,Sains Data,1
+1237,SD2206,Basis Data  ,3,Sains Data,1
+1238,SD2207,Algoritma Strategi ,2,Sains Data,1
+1239,KU0010,Kewarganegaraan ,2,Sains Data,1
+1240,SD3101,Data Mining ,3,Sains Data,1
+1241,SD3103,Komputasi Statistik ,3,Sains Data,1
+1242,SD3104,Teori Optimasi ,3,Sains Data,1
+1243,SD3106,Visualisasi Data dan Informasi ,3,Sains Data,1
+1244,SD3107,Pembelajaran Mesin ,3,Sains Data,1
+1245,SD3108,Kecerdasan Buatan ,3,Sains Data,1
+1246,KU3001,Kuliah Kerja Nyata,2,Sains Data,1
+1247,MA1103,Matematika Dasar 1A,4,Sains Aktuaria,9
+1248,FI1102,Fisika Dasar 1A,4,Sains Aktuaria,9
+1249,KI1103,Kimia Dasar 1A,3,Sains Aktuaria,9
+1250,BI1103,Biologi Dasar 1,2,Sains Aktuaria,9
+1251,KU1106,Pengantar Komputer dan Software ,2,Sains Aktuaria,9
+1252,KU1101,Bahasa Indonesia ,2,Sains Aktuaria,9
+1253,KU1104,Olahraga,2,Sains Aktuaria,9
+1254,MA1203,Matematika 2A,4,Sains Aktuaria,9
+1255,FI1202,Fisika Dasar 2A,4,Sains Aktuaria,9
+1256,KI1204,Kimia Dasar 2B,2,Sains Aktuaria,9
+1257,BI1103,Biologi Dasar 1B,2,Sains Aktuaria,9
+1258,KU0008,Pengenalan Komputer dan Software II,2,Sains Aktuaria,9
+1259,KU0003,Bahasa Indonesia ,2,Sains Aktuaria,9
+1260,AT1201,Dasar Pemograman Aktuaria,2,Sains Aktuaria,9
+1261,AT2121,Analisis Data Statistika ,3,Sains Aktuaria,9
+1262,AT2106,Matriks dan Ruang Vektor ,3,Sains Aktuaria,9
+1263,AT2107,Teori Suku Bunga,3,Sains Aktuaria,9
+1264,AT2108,Kalkulus Peubah Banyak ,3,Sains Aktuaria,9
+1265,AT2104,Mikro Ekonomi ,2,Sains Aktuaria,9
+1266,KU0009,Pancasila ,2,Sains Aktuaria,9
+1267,KU00011,Agama,2,Sains Aktuaria,9
+1268,AT2221,Teori Peluang Aktuaria ,3,Sains Aktuaria,9
+1269,AT2211,Matematika Aktuaria,3,Sains Aktuaria,9
+1270,AT2222,Analisis Deret Waktu,3,Sains Aktuaria,9
+1271,AT2216,Asuransi Umum,3,Sains Aktuaria,9
+1272,AT2202,Akutansi ,3,Sains Aktuaria,9
+1273,KU0010,Kewarganegaraan ,2,Sains Aktuaria,9
+1274,KU0006,Studium Generale,2,Sains Aktuaria,9
+1275,AT3121,Proses Stokastik,3,Sains Aktuaria,9
+1276,AT3116,Matematika Aktuaria Lanjutan ,3,Sains Aktuaria,9
+1277,AT3122,Statistika Matematika ,3,Sains Aktuaria,9
+1278,AT3117,Teori Resiko,3,Sains Aktuaria,9
+1279,AT3114,Komputasi Aktuari ,3,Sains Aktuaria,9
+1280,AT3113,Model Survival,3,Sains Aktuaria,9
+1281,MA1103,Matematika Dasar 1A,4,Fisika,3
+1282,FI1102,Fisika Dasar 1A,4,Fisika,3
+1283,KI1103,Kimia Dasar 1A,3,Fisika,3
+1284,BI1103,Biologi Dasar 1B,2,Fisika,3
+1285,KU0003,Bahasa Indonesia ,2,Fisika,3
+1286,KU0007,Pengantar Komputer dan Software 1,2,Fisika,3
+1287,MA1203,Matematika Dasar 2A,4,Fisika,3
+1288,FI1202,Fisika Dasar 2A,3,Fisika,3
+1289,KI1203,Kimia Dasar 2A,2,Fisika,3
+1290,KU1002,Bahasa Inggris,2,Fisika,3
+1291,KU1205,Pengantar Komputer dan Software 2,2,Fisika,3
+1292,KU1003,Lingkungan Hidup Sumatera,2,Fisika,3
+1293,KU1004,Olahraga,2,Fisika,3
+1294,FI2101,Fisika Matematika 1,4,Fisika,3
+1295,FI2102,Mekanika,4,Fisika,3
+1296,FI2103,Elektronika Dasar ,3,Fisika,3
+1297,FI2104,Statistika Dasar,2,Fisika,3
+1298,FI2105,Pemrograman dan Metode Numerik ,2,Fisika,3
+1299,KU001X,Agama,2,Fisika,3
+1300,KU0009,Pancasila ,2,Fisika,3
+1301,FI2011,Pengantar Fisika Teori ,2,Fisika,3
+1302,FI2021,Pengantar Fisika Material ,2,Fisika,3
+1303,FI2031,Pengantar Fisika Instrumentasi ,2,Fisika,3
+1304,FI2041,Pengantar Fisika Murni,2,Fisika,3
+1305,FI2201,Fisika Matematika 2,4,Fisika,3
+1306,FI2202,Listrik Magnet ,4,Fisika,3
+1307,FI2203,Fisika Modern,3,Fisika,3
+1308,FI2207,Fisika Termal,3,Fisika,3
+1309,KU0010,Kewarganegaraan ,2,Fisika,3
+1310,FI2208,Metode Penelitian Fisika,2,Fisika,3
+1311,FI2209,Eksperimen Fisika,2,Fisika,3
+1312,FI2251,Komunikasi Ilmiah ,2,Fisika,3
+1313,FI3105,Fisika Inti,3,Fisika,3
+1314,FI3109,Fisika Komputasi,3,Fisika,3
+1315,KI1103,Kimia Dasar 1B,3,Biologi,5
+1316,BI1102,Biologi Dasar 1A,3,Biologi,5
+1317,KU0003,Bahasa Indonesia ,2,Biologi,5
+1318,KU0007,Pengantar Komputer dan Software 1,2,Biologi,5
+1319,KU1004,Olahraga,2,Biologi,5
+1320,MA1024,Matematika Dasar 2 ,3,Biologi,5
+1321,FI1203,Fisika Dasar 2 ,3,Biologi,5
+1322,KI1203,Kimia Dasar 2,3,Biologi,5
+1323,KU0004,Bahasa Inggris,2,Biologi,5
+1324,KU1003,Lingkungan Hidup Sumatera,2,Biologi,5
+1325,BI1203,Biologi untuk Perekayasa,2,Biologi,5
+1326,BI1204,Teknik Laboratorium dan Instrumentasi,3,Biologi,5
+1327,KU0008,Pengantar Komputer dan Software 2,2,Biologi,5
+1328,BI2103,Biokimia,3,Biologi,5
+1329,BI2104,Dasar Sains Tumbuhan 1,4,Biologi,5
+1330,BI2105,Dasar Sains Hewan 1,4,Biologi,5
+1331,BI2107,Biologi Sel,3,Biologi,5
+1332,KI0061,Kimia Organik,3,Biologi,5
+1333,KU001X,Agama,2,Biologi,5
+1334,BI2202,Mikrobiologi Umum ,3,Biologi,5
+1335,BI2210,Dasar Sains Tumbuhan 2,3,Biologi,5
+1336,BI2211,Dasar Sains Hewan 2,3,Biologi,5
+1337,BI2212,Evolusi,3,Biologi,5
+1338,BI2213,Analisis dan Interpretasi Data,3,Biologi,5
+1339,BI2214,Genetika Umum,3,Biologi,5
+1340,KU0005,KKN,2,Biologi,5
+1341,BI3102,Etologi,3,Biologi,5
+1342,BI3106,Ekologi,3,Biologi,5
+1343,BI3111,Manajemen Bioindustri,2,Biologi,5
+1344,BI3109,Biokonservasi Tropika,3,Biologi,5
+1345,KU0009,Pancasila,2,Biologi,5
+1346,BI3206,Metode Penelitian  ,2,Biologi,5
+1347,KU0006,Studium Generale,2,Biologi,5
+1348,KU0010,Kewarganegaraan,2,Biologi,5
+1349,KU0003,Bahasa Indonesia ,2,Kimia,4
+1350,BI1103,Biologi Dasar 1B,2,Kimia,4
+1351,FI1102,Fisika Dasar 1A,4,Kimia,4
+1352,KI1103,Kimia Dasar 1A,3,Kimia,4
+1353,MA1103,Matematika Dasar 1A,4,Kimia,4
+1354,KU0007,Pengantar Komputer dan Software 1,2,Kimia,4
+1355,MA1203,Matematika Dasar 2,4,Kimia,4
+1356,FI1202,Fisika Dasar 2,4,Kimia,4
+1357,KU1004,Olahraga,2,Kimia,4
+1358,KU0004,Bahasa Inggris,2,Kimia,4
+1359,KI1203,Kimia Dasar 2,3,Kimia,4
+1360,KU1003,Lingkungan Hidup Sumatera,2,Kimia,4
+1361,KI2121,Dasar-Dasar Kimia Analitik,4,Kimia,4
+1362,KI2131,Kimia Unsur Golongan Utama,4,Kimia,4
+1363,KI2141,Dasar-Dasar Kimia Hayati ,3,Kimia,4
+1364,KI2151,Struktur dan Ikatan KImia,3,Kimia,4
+1365,KI2161,Senyawa Organik Monofungsi,4,Kimia,4
+1366,KI2172,Visualisasi Molekul,2,Kimia,4
+1367,KU0009,Pancasila,2,Kimia,4
+1368,KU001X,Agama,2,Kimia,4
+1369,KI2221,Metode Analisis Kimia,4,Kimia,4
+1370,KI2231,Logam Transisi dan Senyawa Koordinasi,4,Kimia,4
+1371,KI2242,Struktur dan Fungsi Biomolekul ,4,Kimia,4
+1372,KI2251,Energetika Kimia,3,Kimia,4
+1373,KI2261,Senyawa Organik Polifungsi ,4,Kimia,4
+1374,KU0010,Kewarganegaraan ,2,Kimia,4
+1375,KI3123,Kimia Analisis Instrumen,3,Kimia,4
+1376,KI3142,Metabolisme dan Infromasi Genetika,4,Kimia,4
+1377,KI3151,Kinetika Kimia,3,Kimia,4
+1378,KI3161,Sintesis dan Mekanisme Reaksi Organik ,3,Kimia,4
+1379,KI3212,Kewirausahaan Kimia,2,Kimia,4
+1380,KI3213,Etika Profesi,2,Kimia,4
+1381,KI3214,Manajemen Laboratorium dan Industri,3,Kimia,4
+1382,KI3215,Kimia Lingkungan dan Kimia Hijau,3,Kimia,4
+1383,WT25-0001,Matematika Dasar,3,Farmasi ,6
+1384,WT25-00002,Biologi Dasar,2,Farmasi ,6
+1385,WT25-00003,Fisika Dasar,3,Farmasi ,6
+1386,WT25-00004,Kimia Dasar,2,Farmasi ,6
+1387,WT25-00005,Praktikum Biologi Dasar,1,Farmasi ,6
+1388,WT25-00006,Praktikum Kimia Dasar,1,Farmasi ,6
+1389,WI25-00001,Transformasi Berkelanjutan Sumatera,2,Farmasi ,6
+1390,WI25-00002,Dasar Teknologi Digital,2,Farmasi ,6
+1391,FA2511001,Dasar-Dasar Ilmu Farmasi,2,Farmasi ,6
+1392,WI25-00004,Pengenalan Komputasi,2,Farmasi ,6
+1393,,,,Farmasi ,
+1394,,,,Farmasi ,
+1395,WI25-00005,Pola Hidup Sehat dan Kebugaran Fisik,2,Farmasi ,6
+1396,FA2512001,Mikrobiologi Farmasi,3,Farmasi ,6
+1397,WU25-00003,Kewarganegaraan ,3,Farmasi ,6
+1398,FA2512002,Anatomi Fisiologi Manusia,3,Farmasi ,6
+1399,FA2512003,Farmasetika,3,Farmasi ,6
+1400,FA2512004,Kimia Analisis Farmasi,3,Farmasi ,6
+1401,WU25-00001,Bahasa Indonesia ,2,Farmasi ,6
+1402,FA2521001,Botani Farmasi,3,Farmasi ,6
+1403,FA2521002,Farmasi Fisik,3,Farmasi ,6
+1404,FA2521003,Kimia Organik Obat ,3,Farmasi ,6
+1405,FA2521004,Farmakologi 1,3,Farmasi ,6
+1406,FA2521005,Interaksi dan Toksikologi,2,Farmasi ,6
+1407,FA2521006,Patofisiologi,2,Farmasi ,6
+1408,WU25-00002,Pancasila,2,Farmasi ,6
+1409,WU25-00004,Agama,2,Farmasi ,6
+1410,WI25-00003,Bahasa Inggris Interdispliner,2,Farmasi ,6
+1411,FA2522001,Farmakologi Analisis Farmasi ,3,Farmasi ,6
+1412,FA2522002,Analisis Farmasi Instrumental,3,Farmasi ,6
+1413,FA2522003,Biologi Molekuler ,2,Farmasi ,6
+1414,FA2522004,"Teknologi Sediaan Farmasi Cair, SemiSolid",2,Farmasi ,6
+1415,FA2522005,Farmakoterapi 1,2,Farmasi ,6
+1416,FA2522006,Manajemen Farmasi Apotek,2,Farmasi ,6
+1417,MA1104,Matematika Dasar 1,3,Sains Lingkungan Kelautan ,7
+1418,FI1103,Fisika Dasar 1 ,3,Sains Lingkungan Kelautan ,7
+1419,KI1103,Kimia Dasar 1,3,Sains Lingkungan Kelautan ,7
+1420,BI1102,Biologi Dasar ,3,Sains Lingkungan Kelautan ,7
+1421,KU1002,Olahraga,2,Sains Lingkungan Kelautan ,7
+1422,KU0007,PKS 1,2,Sains Lingkungan Kelautan ,7
+1423,KU0003,Bahasa Indoenesia,2,Sains Lingkungan Kelautan ,7
+1424,MA1204,Matematika Dasar 2,3,Sains Lingkungan Kelautan ,7
+1425,FI1203,Fisika Dasar 2,3,Sains Lingkungan Kelautan ,7
+1426,KI1203,Kimia Dasar 2,3,Sains Lingkungan Kelautan ,7
+1427,KU1001,LHS,2,Sains Lingkungan Kelautan ,7
+1428,KU0004,Bahasa Inggris  ,2,Sains Lingkungan Kelautan ,7
+1429,KU0008,PKS 2,2,Sains Lingkungan Kelautan ,7
+1430,LL1201,Biologi Laut,3,Sains Lingkungan Kelautan ,7
+1431,LL2101,Kimia Laut,3,Sains Lingkungan Kelautan ,7
+1432,LL2102,Fisika Laut,3,Sains Lingkungan Kelautan ,7
+1433,LL2103,Geologi Laut ,3,Sains Lingkungan Kelautan ,7
+1434,LL2104,Metode Statistika,3,Sains Lingkungan Kelautan ,7
+1435,LL2106,Ekologi Laut Tropis,3,Sains Lingkungan Kelautan ,7
+1436,LL2107,Renang  & Widya Selam,3,Sains Lingkungan Kelautan ,7
+1437,KU0001,Agama,2,Sains Lingkungan Kelautan ,7
+1438,LL2201,Hirodinamika ,3,Sains Lingkungan Kelautan ,7
+1439,LL2202,Pencemaran Laut ,3,Sains Lingkungan Kelautan ,7
+1440,LL2206,Mikrobiologi Kelautan ,3,Sains Lingkungan Kelautan ,7
+1441,LL2207,Sendimentologi Kelautan,3,Sains Lingkungan Kelautan ,7
+1442,LL2208,Penginderan Jauh Kelautan ,3,Sains Lingkungan Kelautan ,7
+1443,LL2209,Akustik Kelautan,3,Sains Lingkungan Kelautan ,7
+1444,KU0002,Kewarganegaraan ,2,Sains Lingkungan Kelautan ,7
+1445,LL3102,Sosial Ekonomi Budaya Maritim ,3,Sains Lingkungan Kelautan ,7
+1446,LL3104,Bioekspresi Kelautan ,2,Sains Lingkungan Kelautan ,7
+1447,LL31105,Metode Analisis Data Kelautan,3,Sains Lingkungan Kelautan ,7
+1448,LL3108,Meteorologi Kelautan,3,Sains Lingkungan Kelautan ,7
+1449,LL3109,Sistem Informasi Geografis Kelautan,2,Sains Lingkungan Kelautan ,7
+1450,LL31010,Survey Bioekologi Kelautan,2,Sains Lingkungan Kelautan ,7
+1451,MA1103,Matematika Dasar 1A,4,Sains Atmosfer Keplanetan,8
+1452,FI1102,Fisika Dasar IA,4,Sains Atmosfer Keplanetan,8
+1453,KI1103,Kimia Dasar IA,3,Sains Atmosfer Keplanetan,8
+1454,BI1103,Biologi Dasar,2,Sains Atmosfer Keplanetan,8
+1455,KU0007,Pengantar Komputer dan Software I,2,Sains Atmosfer Keplanetan,8
+1456,KU1004,Olahraga,2,Sains Atmosfer Keplanetan,8
+1457,AK1101,Pengenalan Prodi Sains Atmosfer dan Keplanetan,2,Sains Atmosfer Keplanetan,8
+1458,MA1103,Matematika IIA,4,Sains Atmosfer Keplanetan,8
+1459,FI1102,Fisika Dasar IIA,4,Sains Atmosfer Keplanetan,8
+1460,KI1103,Kimia Dasar IIA,3,Sains Atmosfer Keplanetan,8
+1461,KU0003,Bahasa Indonesia,2,Sains Atmosfer Keplanetan,8
+1462,KU0004,Bahasa Inggris,2,Sains Atmosfer Keplanetan,8
+1463,KU0008,Pengantar Komputer dan Software 2,2,Sains Atmosfer Keplanetan,8
+1464,KU1003,Lingkungan Hidup Sumatera,2,Sains Atmosfer Keplanetan,8
+1465,AK2101,Metode Matematika dalam Sains Atmosfer dan Keplanetan,3,Sains Atmosfer Keplanetan,8
+1466,AK2103,Metode Numerik Sains Atmosfer dan Keplanetan,3,Sains Atmosfer Keplanetan,8
+1467,AK2111,Fisika dan Kimia Atmosfer,3,Sains Atmosfer Keplanetan,8
+1468,AK2121,Astrofisika,3,Sains Atmosfer Keplanetan,8
+1469,AK2122,Astronomi Posisi,3,Sains Atmosfer Keplanetan,8
+1470,AK2131,"Teknik Instrumentasi, Pengukuran, dan Observasi Atmosfer dan Antariksa",3,Sains Atmosfer Keplanetan,8
+1471,AK2201,Analisis Statistik dalam Sains Atmosfer dan Keplanetan,3,Sains Atmosfer Keplanetan,8
+1472,AK2202,Dasar Mekanika Sains Atmosfer dan Keplanetan,3,Sains Atmosfer Keplanetan,8
+1473,AK2203,Komputasi Sains Atmosfer dan Keplanetan,3,Sains Atmosfer Keplanetan,8
+1474,AK2204,Fenomena Gelombang,3,Sains Atmosfer Keplanetan,8
+1475,AK2205,Interaksi Atmosfer dan Cuaca Antariksa,3,Sains Atmosfer Keplanetan,8
+1476,AK2211,Sistem Cuaca dan Dinamika Atmosfer I,3,Sains Atmosfer Keplanetan,8
+1477,AK3101,Termodinamika dan Hantaran Radiasi,3,Sains Atmosfer Keplanetan,8
+1478,AK3102,Lingkungan Bumi dan Antariksa,2,Sains Atmosfer Keplanetan,8
+1479,AK3103,Metodologi Penelitian Sains Atmosfer dan Keplanetan,2,Sains Atmosfer Keplanetan,8
+1480,AK3110,Sistem Cuaca dan Dinamika Atmosfer II,3,Sains Atmosfer Keplanetan,8
+1481,AK3131,Laboratorium Astronomi,3,Sains Atmosfer Keplanetan,8
+1482,KU0005,Kuliah Kerja Nyata,2,Sains Atmosfer Keplanetan,8
+1483,KU001X,Agama,2,Sains Atmosfer Keplanetan,8
+1484,AK25-21119,Astronomi Praktis,2,Sains Atmosfer Keplanetan,8
+1485,FI1101,Fisika Dasar 1 ,4,Matematika,2
+1486,KI1101,Kimia Dasar 1,4,Matematika,2
+1487,MA1101,Matematika Dasar 1,4,Matematika,2
+1488,WI1101,Pancasila,2,Matematika,2
+1489,WI1102,Pemrograman Komputer dan Software 1,2,Matematika,2
+1490,WI1103,Pengantar Prinsip Berkelanjutan,2,Matematika,2
+1491,FI1202,Fisika Dasar 2A,3,Matematika,2
+1492,KI1201,Kimia Dasar 1A,3,Matematika,2
+1493,MA1201,Matematika 2A ,4,Matematika,2
+1494,WI2001,Pengenalan Rekayasa dan Desain,3,Matematika,2
+1495,WI2002,Literasi Data dan Intelegensi Artifisial,2,Matematika,2
+1496,WI2003,Olahraga,1,Matematika,2
+1497,WI2005,Bahasa Indonesia,2,Matematika,2
+1498,MA2111,Dasar-dasar Matematika,2,Matematika,2
+1499,MA2121,Aljabar Linear Elementer,4,Matematika,2
+1500,MA2151,Simulasi dan Komputasi Matematika,4,Matematika,2
+1501,MA2181,Analisis Data,4,Matematika,2
+1502,WI2006,Kewarganegaraan ,2,Matematika,2
+1503,WI201X,Agama,2,Matematika,2
+1504,BI1011,Biologi A,2,Matematika,2
+1505,MA2231,Kalkulus Peubah Banyak,4,Matematika,2
+1506,MA2251,Matematika Diskrit,4,Matematika,2
+1507,MA2271,Pengantar Persamaan Diferensial,4,Matematika,2
+1508,WI2004,Bahasa Inggris,2,Matematika,2
+1509,MA3071,Pengantar Optimasi,4,Matematika,2
+1510,MA3131,Pengantar Analisis Real,4,Matematika,2
