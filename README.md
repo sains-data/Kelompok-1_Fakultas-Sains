@@ -11,14 +11,15 @@ Tugas Besar Pergudangan Data - Kelompok 1
 Data mart ini dirancang untuk Fakultas Sains guna memonitor kinerja akademik dan publikasi dosen.
 
 ## Business Domain
-Fokus pada kegiatan tridharma perguruan tinggi:
-1. Pendidikan & Pengajaran (kinerja akademik mahasiswa)  
-2. Publikasi Dosen
-
+Fokus pada 2 pilar utama tridharma perguruan tinggi:
+1. Pendidikan & Pengajaran: Kinerja akademik mahasiswa (IPK, kelulusan).
+2. Penelitian & Publikasi Dosen: Output riset dan publikasi.
+   
 ## Architecture
 - Approach: Kimball
 - Platform: SQL Server on Azure VM
 - ETL: SSIS
+- Schema : Galaxy Star Schema
 
 ## Key Features
 - **Fact Tables**:  
