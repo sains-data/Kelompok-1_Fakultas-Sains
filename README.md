@@ -27,7 +27,7 @@ Fokus pada 2 pilar utama tridharma perguruan tinggi:
   - `Fact_Publikasi` — berisi data publikasi dosen seperti judul, jenis publikasi, tahun, dan level publikasi.  
 
 - **Dimension Tables**:  
-  - `Dim_Mahasiswa` — informasi mahasiswa (NIM, nama, angkatan, prodi).  
+  - `Dim_Mahasiswa` — informasi mahasiswa (NIM, nama, angkatan, prodi, email, No _Handphone_).  
   - `Dim_MataKuliah` — informasi mata kuliah (kode MK, nama MK, SKS, prodi).  
   - `Dim_Dosen` — informasi dosen (NIP, nama, jabatan fungsional, prodi).  
   - `Dim_Prodi` — informasi program studi di Fakultas Sains.  
