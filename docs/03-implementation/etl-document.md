@@ -22,7 +22,7 @@ Berikut adalah pemetaan tabel sumber ke tabel tujuan beserta strategi pemuatanny
 | Tabel Source | Tabel Target | Tipe Load | Logika Bisnis |
 | :--- | :--- | :--- | :--- |
 | `tb_dosen` | `Dim_Dosen` | **SCD Type 2** | Jika `Jabatan_Fungsional` berubah, row lama akan expire (`EndDate` diisi hari ini), dan row baru di-insert dengan status aktif (`IsCurrent=1`). |
-| `tb_mahasiswa` | `Dim_Mahasiswa` | **SCD Type 1** | Update langsung (overwrite) untuk perubahan atribut biasa (seperti No HP, Alamat). Tidak menyimpan histori. |
+| `tb_mahasiswa` | `Dim_Mahasiswa` | **SCD Type 2** | Menyimpan histori jika ada mahasiswa yang  pindah prodi atau berubah status. |
 | `tb_krs` / `tb_nilai` | `Fact_Akademik` | **Incremental** | Data transaksi pengambilan SKS dan Nilai dimuat secara bertahap berdasarkan data baru yang masuk. |
 
 ---
